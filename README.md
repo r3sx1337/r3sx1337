@@ -1,6 +1,6 @@
 <h1>Renan Bocchi</h1>
 <hr>
-Hi everyone 👋
+Hi everyone! 👋<br>
 <ul>
   <li>🔭 I’m currently working on my Gama Experience #36 tasks.</li>
   <ul><li>Check my squad, Brain Match, info here: https://brainmatch.webflow.io/</li></ul>
