@@ -1,21 +1,8 @@
-### Hi there 👋
-
-<!--
-**ResXBocchi/ResXBocchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1>Renan Bocchi</h1>
-
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-
-<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="pt_BR" data-type="horizontal" data-theme="dark" data-vanity="renanbocchi"><a class="LI-simple-link" href='https://br.linkedin.com/in/renanbocchi?trk=profile-badge'>Renan Bocchi</a></div>
+<hr>
+### Hi everyone 👋
+#### - 🔭 I’m currently working on my Gama Experience #36 tasks.
+Check my squad, Brain Match, info here: https://brainmatch.webflow.io/
+#### - 🌱 I’m currently learning JavaScript Frameworks for front-end development.
+#### - 💬 Ask me about games, parenting, audio-visual production, and so many other things.
+#### - 📫 How to reach me: https://linkedin.com/in/renanbocchi
