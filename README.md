@@ -1,8 +1,6 @@
-<h1>Renan Bocchi</h1>
+<h1>Renan Bocchi</h1> <br>
 
-<img class="inline-block" src="https://www.codewars.com/users/ResX/badges/large?logo=false"><br>
-
-<a href='https://www.linkedin.com/in/renanbocchi/'><img src='https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white'></a><br>
+<a href='https://www.linkedin.com/in/renanbocchi/'><img src='https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white' height='30px'></a> <img class="inline-block" src="https://www.codewars.com/users/ResX/badges/large?logo=false" height='30px'><br>
 
 <hr>
 Hi everyone! 👋<br>
