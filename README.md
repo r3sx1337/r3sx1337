@@ -5,7 +5,7 @@
 <hr>
 Hi everyone! 👋<br>
 <ul>
-  <li>🔭 I’m currently working on my ReactJS skills.</li>
+  <li>🔭 I’m currently working on my ReactJS and web scraping skills.</li>
   <li>:bulb:  I know Python, Django, SQL, HTML, CSS, JavaScript
   <li>🌱 I’m currently learning JavaScript Frameworks for front-end development.</li>
   <li>💬 Ask me about games, parenting, audio-visual production, and so many other things.</li>
