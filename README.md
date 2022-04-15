@@ -9,7 +9,6 @@ Hi everyone! 👋<br>
 <ul>
   <li>🔭 I’m currently working on my Cyber Security Skills</li>
   <li>:bulb:  I know Python, Django, Vue3, SQL, HTML, CSS, JavaScript, Network Basics, Information Security
-  <li>💬 Ask me about games, parenting, audio-visual production, and so many other things.</li>
   <li>📫 How to reach me: Just send me a hello on LinkedIn</li>
   <li>:speaker:  I speak Brazilian Portuguese(native), English(fluent) and Spanish(intermediate)
 </ul>
