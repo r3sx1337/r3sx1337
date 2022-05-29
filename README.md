@@ -10,7 +10,7 @@ https://tryhackme.com/p/ResXB<br><br>
 Hi everyone! 👋<br>
 <ul>
   <li>🔭 I’m currently working on my Cyber Security Skills</li>
-  <li>:bulb:  I know Python, Django, Vue3, SQL, HTML, CSS, JavaScript, Network Basics, Information Security
+  <li>:bulb:  I know Python, Bash, SQL, HTML, CSS, JavaScript, Network, Information Security
   <li>📫 How to reach me: Just send me a hello on LinkedIn</li>
   <li>:speaker:  I speak Brazilian Portuguese(native), English(fluent) and Spanish(intermediate)
 </ul>
