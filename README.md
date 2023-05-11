@@ -1,4 +1,4 @@
-<h1>Renan Bocchi</h1> 
+<h1>Renan</h1> 
 
 <a href='https://www.linkedin.com/in/resx/'><img src='https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white' height='30px'></a> <a href='https://www.codewars.com/users/ResX'><img class="inline-block" src="https://www.codewars.com/users/ResX/badges/large?logo=false" height='30px'></a><br>
 
